@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Harsh!<br/></h1>
 
-<!--
-**Sehrawatharsh/Sehrawatharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me</h2>
 
-Here are some ideas to get you started:
+I'm a data analyst with a strong work ethic and a highly coachable attitude. I thrive on learning quickly, especially when it comes to new tools and technologies. I continuously strive to improve both technically and professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📊 Data Projects</h2>
+
+- <b>Data Cleaning and visualiztion with Python</b>  
+  - [Analyzing Global Demographic Trends](https://github.com/yourusername/sales-dashboard)
+
+<h2>🧰 Tools & Technologies</h2>
+
+- Python (Pandas, NumPy, Seaborn, Matplotlib)  
+- MySQL  
+- Power BI, Tableau  
+- Excel
+- Microsoft365
+- AWS & Azure
+
+<h2>🤝 Connect with Me</h2>
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Sehrawatharsh)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:hsehrawat.ind@gmail.com)
+
