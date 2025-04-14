@@ -7,7 +7,7 @@ I'm a data analyst with a strong work ethic and a highly coachable attitude. I t
 <h2>📊 Data Projects</h2>
 
 - <b>Data Cleaning and visualiztion with Python</b>  
-  - [Analyzing Global Demographic Trends](https://github.com/yourusername/sales-dashboard)
+  - [Analyzing Global Demographic Trends](https://github.com/Sehrawatharsh/GlobalTrends/tree/main)
 
 <h2>🧰 Tools & Technologies</h2>
 
