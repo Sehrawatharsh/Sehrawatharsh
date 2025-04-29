@@ -8,6 +8,7 @@ I'm a data analyst with a strong work ethic and a highly coachable attitude. I t
 
 <b>Data Cleaning and visualiztion with Python</b>
  -  [Bank Customer Churn Analysis-Kaggle Dataset](https://github.com/Sehrawatharsh/BankCustomerChurnAnalyisis)
+ -  [E-commerce Discount Analysis: Behavioral Trends and Revenue Insights](https://github.com/Sehrawatharsh/EcomDiscountAnalysis)
  - [Analyzing Global Demographic Trends](https://github.com/Sehrawatharsh/GlobalTrends/tree/main)
 
 ## <b>📊SQL-Projects</b>
