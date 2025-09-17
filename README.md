@@ -2,7 +2,7 @@
 
 <h2> About Me</h2>
 
-I'm a sales and operations professional with a strong work ethic and a highly coachable attitude. Outside of work, I pursue analytics projects for fun and personal development, staying connected to my tech side and continuously learning new tools and technologies. I thrive on applying insights from data to solve problems and enjoy improving both technically and professionally.
+I'm a professional with a strong work ethic and a highly coachable attitude. Outside of work, I pursue analytics projects for fun and personal development, staying connected to my tech side and continuously learning new tools and technologies. I thrive on applying insights from data to solve problems and enjoy improving both technically and professionally.
 
 <h2>📊 Data Projects</h2>
 
